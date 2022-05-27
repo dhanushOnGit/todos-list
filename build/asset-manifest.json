@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dhanushOnGit/todos-list.git/static/css/main.073c9b0a.css",
+    "main.js": "/dhanushOnGit/todos-list.git/static/js/main.0ac65b23.js",
+    "static/js/787.f237a53c.chunk.js": "/dhanushOnGit/todos-list.git/static/js/787.f237a53c.chunk.js",
+    "index.html": "/dhanushOnGit/todos-list.git/index.html",
+    "main.073c9b0a.css.map": "/dhanushOnGit/todos-list.git/static/css/main.073c9b0a.css.map",
+    "main.0ac65b23.js.map": "/dhanushOnGit/todos-list.git/static/js/main.0ac65b23.js.map",
+    "787.f237a53c.chunk.js.map": "/dhanushOnGit/todos-list.git/static/js/787.f237a53c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0ac65b23.js"
+  ]
+}
